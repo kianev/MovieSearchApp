@@ -1,1 +1,4 @@
 # MovieSearchApp
+Movie Search App using OMDb API http://www.omdbapi.com/ and Axios HTTP Client https://www.npmjs.com/package/axios
+To Do:
+1. Improve back to search results functionality
